@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+}
+
+
+
+
+
+.form-group {
+    display: inline;
+    margin-left: 450px;
+   
+     
+}
+
+.form-control{
+    width: 500px;        /* Ancho del campo */
+    height: 30px;        /* Alto del campo */
+    padding: 5px;        /* Espacio interno */
+    font-size: 14px;     /* Tamaño de la fuente */
+    margin-left: 450px;
+    
+}
+
+.checkbox {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+}
+
+.boton-enviar {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+}

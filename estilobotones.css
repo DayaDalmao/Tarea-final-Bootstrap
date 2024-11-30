@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+
+
+.btn-group {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+    height: 100vh;          /* Ajusta el alto al 100% de la ventana */
+  }
+
+}
